@@ -1,6 +1,6 @@
-// Create a variable "a"  and assign it the value of the int 7.
+//  Create a variable "a"  and assign it the value of the int 7.
 
-// Create a variable "b"  and assign it the value of the int 3.
+//  Create a variable "b"  and assign it the value of the int 3.
 
 // Create a variable "c"  and assign it the value of the int 5.
 

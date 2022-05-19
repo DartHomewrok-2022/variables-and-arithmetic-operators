@@ -8,13 +8,13 @@
 
 // Create a variable called 'answer'.
 
-// Find the expression value assign to 'answer'. a+b - cd .
+// Find the expression value assign to 'answer'. a+b - c*d .
 
 void main() {
   int a = 8;
   int b = 3;
   int c = 2;
   int d = 4;
-  var answer = a + b - c * d;
+  int answer = a + b - c * d;
   print(answer);
 }
